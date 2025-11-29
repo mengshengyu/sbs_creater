@@ -1,5 +1,6 @@
-# SBS Creator - Substance Designer 批量生成器
 # SBS Creator - Substance Designer Batch Generator
+
+下载地址 https://github.com/mengshengyu/sbs_creater/releases
 
 一款强大的 GUI 工具，用于从贴图集合自动生成 Substance Designer (.sbs) 文件。该工具通过自动检测和链接贴图，简化了创建材质图表的工作流程。
 
@@ -8,9 +9,7 @@ A powerful GUI tool for automatically generating Substance Designer (.sbs) files
 **作者 / Author**: Mengshengyu + Claude sonnet 4.5
 
 ---
-
-## 功能特点
-## Features
+# Features
 
 - **批量处理**: 从材质文件夹目录批量生成多个 .sbs 文件
 - **Batch Processing**: Generate multiple .sbs files from a directory of material folders
